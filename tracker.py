@@ -1,5 +1,5 @@
 #Name : Chavi Jaiswal
-#date : 4th october, 2025 
+#date : 7th october, 2025 
 #DAILY CALORIE TARCKER (CLI)
 print("\nWelcome to the Daily Calorie Tracker!  ")
 print("This program will help you to keep track of meals and calories.")
@@ -49,6 +49,7 @@ for i in range(len(meals)):
 print("-" * 30)
 print(f"Total: \t\t{total_calories}")
 print(f"Average:\t{average_calories:.2f}")
+
 
 
 
